@@ -35,9 +35,9 @@ HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08_mobile.html = <div style="text-ali
 ## Media
 
 ### Title
+panorama_1374888E_3976_E0F6_41AC_86D2D232B0C9.label = Fachada 2
 panorama_38D6FC23_34D0_A8D8_41C2_BADF3B9112E4.label = 1
 panorama_3E2E0103_34D0_D8D8_41B5_B3AF59BB3CEA.label = 3
-panorama_3E2E5AB6_34D0_E938_41C1_86FB61C523D3.label = Fachada
 panorama_3FD3872F_34D0_A728_41C5_1C12F1D21265.label = 2
 
 ## Action
